@@ -1,0 +1,1 @@
+# newcomer_android-studio
